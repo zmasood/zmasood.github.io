@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zainab Masood"
+title                    : "Zainab Masood, PHD"
 title_separator          : "-"
-name                     : &name "ZAINAB MASOOD, PHD"
+name                     : &name "ZAINAB MASOOD"
 description              : &description "personal description"
 url                      : "https://zmasood.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
