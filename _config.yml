@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zainab Masood, PHD"
-  avatar           : "profile.png"
+  avatar           : "/images/pbio-photo.jpg" #"profile.png"
   bio              : "Postdoctoral Research Fellow"
   location         : "New Zealand"
   employer         :
