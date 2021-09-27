@@ -12,3 +12,4 @@ redirect_from:
 
 If the embedded PDF below does not load, you can download it <a href="https://zmasood.github.io/files/Resume.pdf" target="_blank">HERE</a> .
 
+<embed src="https://zmasood.github.io/files/Resume.pdf" width="600px" height="500px" />
