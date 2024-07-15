@@ -9,6 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+
+If the embedded PDF below does not load, you can view it <a href="https://zmasood.github.io/files/Resume.pdf" target="_blank">HERE</a> .
+
+<embed src="https://dhaferalmakhles.github.io/files/Resume.pdf" width="600px" height="500px" />
+<!--
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -58,6 +74,7 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  -->
   
 Service and leadership
 ======
