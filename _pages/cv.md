@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-If the embedded PDF below does not load, you can view it <a href="https://zmasood.github.io/files/Resume.pdf" target="_blank">HERE</a> .
+If the embedded PDF below does not load, you can view it <a href="https://dhaferalmakhles.github.io/files/Resume.pdf" target="_blank">HERE</a> .
 
 <embed src="https://dhaferalmakhles.github.io/files/Resume.pdf" width="600px" height="500px" />
 <!--
@@ -74,8 +74,9 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  -->
+ 
   
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
