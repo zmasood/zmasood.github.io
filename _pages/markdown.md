@@ -1,4 +1,25 @@
 ---
+layout: archive
+title: "Contact Info"
+permalink: /contact/
+author_profile: true
+---
+      Email: <br>
+      zainabmasood[at]gmail[dot]com <br> 
+      zmas690[at]aucklanduni[dot]ac[dot]nz<br>
+      <br><br>
+      Department of Electrical, Computer, and Software Engineering<br>
+      The University of Auckland <br>
+      BUILDING 903 - Bldg 903, <br>Level 3, Room 355 <br>
+      262 KHYBER PASS <br>
+      NEWMARKET <br>
+      AUCKLAND 1023 <br>
+      New Zealand <br>
+
+{% include base_path %}
+<!--
+
+---
 permalink: /markdown/
 title: "Markdown"
 author_profile: true
@@ -262,3 +283,4 @@ This allows you to denote <var>variables</var>.
 
 The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
 
+-->
