@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Dhafer Jaber Almakhles"
+title                    : "Dhafer's Home Page"
 title_separator          : "-"
 name                     : &name "Dr. Dhafer J. Almakhles"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   name             : "Dr. Dhafer J. Almakhles"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor| IEEE Senior Member"
-  location         : "Building 105 Prince Sultan University, Riyadh, Saudi Arabia"
+  location         : "Prince Sultan University, Riyadh, Saudi Arabia"
   employer         : "Prince Sultan University"
   uri              : "https://dhaferalmakhles.github.io/"
   email            : "dalmakhles.@gmail.com" 
