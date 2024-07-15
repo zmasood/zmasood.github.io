@@ -1,8 +1,10 @@
 ---
-layout: archive
-title: "Contact Info"
-permalink: /contact/
+permalink: /markdown/
+title: "Markdown"
 author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
 ---
       Email: <br>
       zainabmasood[at]gmail[dot]com <br> 
@@ -27,7 +29,12 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-
+---
+layout: archive
+title: "Contact Info"
+permalink: /contact/
+author_profile: true
+---
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
