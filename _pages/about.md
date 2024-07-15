@@ -7,14 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-    
-    **About Me**
 
-I am Dhafer Almakhles, an Associate Professor in Electrical Engineering at Prince Sultan University, Riyadh, Saudi Arabia. With a diverse academic background, I hold a Ph.D. and a Master’s degree in Electrical and Electronics Engineering from the University of Auckland, and a Bachelor’s degree from King Fahd University of Petroleum and Minerals. Currently, I serve as the Head of the Department of Electrical Engineering since August 2019, Director of the Research, Development, and Innovation Unit since May 2017, and Founder and Leader of the Renewable Energy Research Lab since January 2019. I am a Senior Member of IEEE and a member of the Saudi Engineering Association, with over 200 published works in top journals, conferences, books, and book chapters. I have received multiple awards, including the Distinguished Researcher Award at Prince Sultan University and recognition as a Top 2% Scientist in the world for 2021-2023. My research focuses on renewable energy technologies, robust control systems, and power electronics. I have led numerous funded projects, including the establishment of a Renewable Energy Research Lab and the development of innovative multilevel inverters for PV-fed grid-tied systems. I serve on the editorial boards of several prestigious journals and have organized special issues and sessions for IEEE conferences. Additionally, I have been an active reviewer for numerous high-impact journals and conferences. I have played a pivotal role in educational reform and accreditation in Saudi Arabia, chairing and participating in several national accreditation review panels and contributing to the development of the national framework of qualifications for engineering programs. My professional experience includes working as a Control and Instrumentation Engineer at Saudi Electricity Company and extensive experience in teaching and laboratory management at the University of Auckland. For more details about my work, publications, and contributions, please visit my profiles on LinkedIn, ResearchGate, and Google Scholar. 
-
-Feel free to explore my website to learn more about my projects, research, and academic journey. Thank you for visiting!
-
-<!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -51,7 +44,7 @@ Many people use a git client to create files on their local computer and then pu
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
--->
+
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
