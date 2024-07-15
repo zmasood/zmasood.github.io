@@ -6,6 +6,10 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+## Contact
+
+- <i class="fas fa-envelope"></i> Email: [dalmakhles@gmail.com](mailto:dalmakhles@gmail.com)
+- <i class="fas fa-phone"></i> Phone: +966-534-496965
 <!--
       Email: <br>
       zainabmasood[at]gmail[dot]com <br> 
