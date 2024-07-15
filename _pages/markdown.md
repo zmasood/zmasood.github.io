@@ -6,6 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+<!--
       Email: <br>
       zainabmasood[at]gmail[dot]com <br> 
       zmas690[at]aucklanduni[dot]ac[dot]nz<br>
@@ -19,8 +20,6 @@ redirect_from:
       New Zealand <br>
 
 {% include base_path %}
-<!--
-
 ---
 permalink: /markdown/
 title: "Markdown"
