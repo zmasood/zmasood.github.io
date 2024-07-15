@@ -1,5 +1,5 @@
 ---
-permalink: /contact/
+permalink: /markdown/
 title: "I'd love to hear from you!"
 author_profile: true
 redirect_from: 
