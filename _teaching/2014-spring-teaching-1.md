@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "CME343 Communication Systems I"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
@@ -8,7 +8,7 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course introduces the fundamental principles of communication systems. It covers topics such as modulation techniques, signal processing, and the analysis of communication signals and systems​​. 
 
 Heading 1
 ======
