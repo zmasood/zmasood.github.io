@@ -37,7 +37,7 @@ Applied Sciences, 13(17):9652, 2023
 
 Mustafa Alrayah Hassan, Chun-Lien Su, Josep Pou, Giorgio Sulligoi, **Almakhles, Dhafer** , Daniele Bosich, and Josep M Guerrero. Dc shipboard microgrids with constant power loads: A review of advanced nonlinear control strategies and stabilization techniques. IEEE Transactions on Smart Grid, 13(5):3422–3438, 2022
 
-ChathuraWanigasekara, Akshya Swain, Almakhles, Dhafer , and Lv Zhou. Design of delta–sigma-based pid controller for networked wind energy conversion systems. IEEE Transactions on Industry Applications, 58(1):879–889, 2021
+ChathuraWanigasekara, Akshya Swain, **Almakhles, Dhafer**, and Lv Zhou. Design of delta–sigma-based pid controller for networked wind energy conversion systems. IEEE Transactions on Industry Applications, 58(1):879–889, 2021
 
 **2020**
 
