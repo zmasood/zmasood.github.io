@@ -8,7 +8,7 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-**:** This course explores the ethical, legal, and social implications of engineering practice. It addresses issues such as professional responsibility, ethical decision-making, and the impact of engineering solutions on society and the environment.
+This course explores the ethical, legal, and social implications of engineering practice. It addresses issues such as professional responsibility, ethical decision-making, and the impact of engineering solutions on society and the environment.
 
 Heading 1
 ======
