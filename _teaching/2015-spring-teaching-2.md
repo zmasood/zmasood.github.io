@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "ETHC305 Ethical & Social Aspects of Engineering"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
@@ -8,7 +8,7 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+**:** This course explores the ethical, legal, and social implications of engineering practice. It addresses issues such as professional responsibility, ethical decision-making, and the impact of engineering solutions on society and the environment.
 
 Heading 1
 ======
