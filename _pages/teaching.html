@@ -4,6 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+{% include base_path %}
 
 Listed are the courses I have taught at Prince Sultan University.
 
@@ -24,9 +25,6 @@ Listed are the courses I have taught at Prince Sultan University.
 **EE332 Control Systems**: This course introduces the principles of control systems engineering. Topics include system modeling, feedback control, stability analysis, and the design of control systems using various methods such as PID controllers.
 
 **EE492 Cooperative Training**: This is another cooperative education course designed to give students hands-on experience in the industry. It allows students to work on real projects and gain valuable insights into the professional practice of engineering​​.
-
-{% include base_path %}
-
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
