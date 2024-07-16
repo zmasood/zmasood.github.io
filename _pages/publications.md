@@ -59,6 +59,15 @@ S Harshavarthini, S Selvi, R Sakthivel, and **Almakhles, Dhafer**. Finite-time c
 
 **Almakhles, Dhafer**. Robust backstepping sliding mode control for a quadrotor trajectory tracking application. IEEE Access, 8:5515–5525, 2019
 
+**2016**
+
+**Almakhles, Dhafer**, Akshya K Swain, Alireza Nasiri, and Nitish Patel. An adaptive two-level quantizer for networked control systems. IEEE Transactions on Control Systems Technology,
+25(3):1084–1091, 2016
+
+**2014**
+
+**Almakhles, Dhafer**, Akshya K Swain, and Nitish D Patel. Stability and performance analysis of bit-stream-based feedback control systems. IEEE Transactions on Industrial Electronics, 62(7):4319–4327, 2014
+
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
