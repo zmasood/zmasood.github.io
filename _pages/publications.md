@@ -39,6 +39,21 @@ Mustafa Alrayah Hassan, Chun-Lien Su, Josep Pou, Giorgio Sulligoi, **Almakhles, 
 
 ChathuraWanigasekara, Akshya Swain, Almakhles, Dhafer , and Lv Zhou. Design of delta–sigma-based pid controller for networked wind energy conversion systems. IEEE Transactions on Industry Applications, 58(1):879–889, 2021
 
+**2020**
+
+**Almakhles, Dhafer**. Two-level quantised control systems: sliding-mode approach. International Journal of Control, 93(3):680–688, 2020
+
+**Almakhles, Dhafer**. Sliding mode control as binary-based quantizers. Asian Journal of Control, 22(3):1090–1098, 2020
+
+**Almakhles, Dhafer**, Jagabar Sathik Mohamed Ali, Sanjeevikumar Padmanaban, Mahajan Sagar Bhaskar, Umashankar Subramaniam, and Rathinasamy Sakthivel. An original hybrid multilevel dc-ac converter using single-double source unit for medium voltage applications: Hardware implementation and investigation. IEEE Access, 8:71291–71301, 2020
+
+**Almakhles, Dhafer**. The complex adaptive delta-modulator in sliding mode theory. Entropy, 22(8):814, 2020
+
+**Almakhles, Dhafer**, Jagabar Sathik Mohamed Ali, Sivakumar Selvam, Mahajan Sagar Bhaskar, and N Sandeep. Switched capacitor-based 13l inverter topology for high-frequency ac power distribution system. IEEE Journal of Emerging and Selected Topics in Power Electronics, 9(5):5883–5894, 2020
+
+**2019**
+**Almakhles, Dhafer**. Robust backstepping sliding mode control for a quadrotor trajectory tracking application. IEEE Access, 8:5515–5525, 2019
+
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
