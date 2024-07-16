@@ -52,6 +52,7 @@ ChathuraWanigasekara, Akshya Swain, Almakhles, Dhafer , and Lv Zhou. Design of d
 **Almakhles, Dhafer**, Jagabar Sathik Mohamed Ali, Sivakumar Selvam, Mahajan Sagar Bhaskar, and N Sandeep. Switched capacitor-based 13l inverter topology for high-frequency ac power distribution system. IEEE Journal of Emerging and Selected Topics in Power Electronics, 9(5):5883–5894, 2020
 
 **2019**
+
 **Almakhles, Dhafer**. Robust backstepping sliding mode control for a quadrotor trajectory tracking application. IEEE Access, 8:5515–5525, 2019
 
 {% if site.author.googlescholar %}
