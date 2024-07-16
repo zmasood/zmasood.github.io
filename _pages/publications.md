@@ -25,6 +25,13 @@ Mahmoud Abdelrahim and **Almakhles, Dhafer**. Observer-based control of inductiv
 Mahmoud Abdelrahim and **Almakhles, Dhafer**. Synthesis of state/output feedback event-triggered controllers for load frequency regulation in hybrid wind–diesel power systems.
 Applied Sciences, 13(17):9652, 2023
 
+**2022**
+**Almakhles, Dhafer** , ChathuraWanigasekara, and Akshya Swain. Delta modulator based quantised state-feedback control of networked linear systems. IEEE Access, 10:48865–48874, 2022
+
+**Almakhles, Dhafer** and M Jagabar Sathik. Single-phase transformerless nine-level inverter with voltage boosting ability for pv fed ac microgrid applications. Scientific reports, 12(1):13442, 2022
+
+**Almakhles, Dhafer** , Divya Navamani Jayachandran, Lavanya Anbazhagan, Marwa Hannachi, and Jagabar Sathik Mohamed Ali. Dynamic analysis of extendable hybrid voltage lift dc–dc converter for dc microgrid. Processes, 10(12):2652, 2022
+
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
