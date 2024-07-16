@@ -18,7 +18,7 @@ author_profile: true
 Neeraj Priyadarshi, MS Bhaskar, and **Almakhles, Dhafer**. A novel hybrid woade algorithm based mppt employed wecs for water pumping applications: Practical realization. IEEE Transactions on Industrial
 Electronics, 2023
 
-Prabhakaran Koothu Kesavan, Umashankar Subramaniam, and Almakhles, Dhafer J. Reduced switch inverter fed sensorless pmsm drive with multistage mras speed estimator based on stator flux and electromagnetic torque. IEEE Transactions on Transportation Electrification, 2023
+Prabhakaran Koothu Kesavan, Umashankar Subramaniam, and **Almakhles, Dhafer**. Reduced switch inverter fed sensorless pmsm drive with multistage mras speed estimator based on stator flux and electromagnetic torque. IEEE Transactions on Transportation Electrification, 2023
 
 Mahmoud Abdelrahim and **Almakhles, Dhafer**. Observer-based control of inductive wireless power transfer system using genetic algorithm. Processes, 11(6):1859, 2023
 
@@ -51,7 +51,7 @@ ChathuraWanigasekara, Akshya Swain, **Almakhles, Dhafer**, and Lv Zhou. Design o
 
 **Almakhles, Dhafer**, Jagabar Sathik Mohamed Ali, Sivakumar Selvam, Mahajan Sagar Bhaskar, and N Sandeep. Switched capacitor-based 13l inverter topology for high-frequency ac power distribution system. IEEE Journal of Emerging and Selected Topics in Power Electronics, 9(5):5883–5894, 2020
 
-S Harshavarthini, Subramaniam Selvi, R Sakthivel, and **Almakhles, Dhafer** Non-fragile fault alarm-based hybrid control for the attitude quadrotor model with actuator saturation. IEEE Transactions on Circuits and Systems II: Express Briefs, 67(11):2647–2651, 2020
+S Harshavarthini, Subramaniam Selvi, R Sakthivel, and **Almakhles, Dhafer**. Non-fragile fault alarm-based hybrid control for the attitude quadrotor model with actuator saturation. IEEE Transactions on Circuits and Systems II: Express Briefs, 67(11):2647–2651, 2020
 
 S Harshavarthini, S Selvi, R Sakthivel, and **Almakhles, Dhafer**. Finite-time consensus for power regulation of parallel pv grid-connected inverters. IEEE Transactions on Circuits and Systems II-Express Briefs, 67(11):2647–2651, 2020
 
