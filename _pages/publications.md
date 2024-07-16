@@ -67,7 +67,7 @@ S Harshavarthini, S Selvi, R Sakthivel, and **Almakhles, Dhafer**. Finite-time c
 **2014**
 
 **Almakhles, Dhafer**, Akshya K Swain, and Nitish D Patel. Stability and performance analysis of bit-stream-based feedback control systems. IEEE Transactions on Industrial Electronics, 62(7):4319–4327, 2014
-
+<!--
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
@@ -77,3 +77,4 @@ S Harshavarthini, S Selvi, R Sakthivel, and **Almakhles, Dhafer**. Finite-time c
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+-->
