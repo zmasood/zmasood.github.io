@@ -7,23 +7,23 @@ author_profile: true
 
 **2024**
 
-**Almakhles, Dhafer** and Mahmoud Abdelrahim. Event-triggered dynamic quantization for nonlinear systems with one-bit data transmission. IEEE Transactions on Automatic Control, 2024
+**Almakhles, Dhafer** and Mahmoud Abdelrahim. Event-triggered dynamic quantization for nonlinear systems with one-bit data transmission. _IEEE Transactions on Automatic Control_, 2024
 
-**Almakhles, Dhafer** and Mahmoud Abdelrahim. A novel one-bit dynamic quantizer for event-triggered control systems. Information Sciences, page 120113, 2024
+**Almakhles, Dhafer** and Mahmoud Abdelrahim. A novel one-bit dynamic quantizer for event-triggered control systems. _Information Sciences_, page 120113, 2024
 
-**Almakhles, Dhafer** and Mahmoud Abdelrahim. Asynchronous dynamic quantization for nonlinear systems with one-bit data transmission. Systems & Control Letters, 181:105630, 2024
+**Almakhles, Dhafer** and Mahmoud Abdelrahim. Asynchronous dynamic quantization for nonlinear systems with one-bit data transmission. _Systems & Control Letters_, 181:105630, 2024
 
 **2023**
 
-Neeraj Priyadarshi, MS Bhaskar, and **Almakhles, Dhafer**. A novel hybrid woade algorithm based mppt employed wecs for water pumping applications: Practical realization. IEEE Transactions on Industrial
-Electronics, 2023
+Neeraj Priyadarshi, MS Bhaskar, and **Almakhles, Dhafer**. A novel hybrid woade algorithm based mppt employed wecs for water pumping applications: Practical realization. _IEEE Transactions on Industrial
+Electronics_, 2023
 
-Prabhakaran Koothu Kesavan, Umashankar Subramaniam, and **Almakhles, Dhafer**. Reduced switch inverter fed sensorless pmsm drive with multistage mras speed estimator based on stator flux and electromagnetic torque. IEEE Transactions on Transportation Electrification, 2023
+Prabhakaran Koothu Kesavan, Umashankar Subramaniam, and **Almakhles, Dhafer**. Reduced switch inverter fed sensorless pmsm drive with multistage mras speed estimator based on stator flux and electromagnetic torque. _IEEE Transactions on Transportation Electrification_, 2023
 
-Mahmoud Abdelrahim and **Almakhles, Dhafer**. Observer-based control of inductive wireless power transfer system using genetic algorithm. Processes, 11(6):1859, 2023
+Mahmoud Abdelrahim and **Almakhles, Dhafer**. Observer-based control of inductive wireless power transfer system using genetic algorithm. _Processes_, 11(6):1859, 2023
 
 Mahmoud Abdelrahim and **Almakhles, Dhafer**. Synthesis of state/output feedback event-triggered controllers for load frequency regulation in hybrid wind–diesel power systems.
-Applied Sciences, 13(17):9652, 2023
+_Applied Sciences_, 13(17):9652, 2023
 
 **2022**
 
