@@ -1,5 +1,5 @@
 ---
-title: "Research Showcase"
+title: "Research Showcase @ ICSDI 2024"
 excerpt: "REL Projects <br/><img src='/images/showcase2.png'>"
 collection: portfolio
 ---
