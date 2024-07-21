@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Services"
+title: "Editorial Board and Organized Special Issues/SessionServices"
 permalink: /services/
 author_profile: true
 ---
-
-**Editorial Board and Organized Special Issues/Session**
 
 • Publication Chair IEEE sponsored International Conference On Human-Centered Cognitive Systems (HCCS 2022) 17th December 2023, hosted by Nanjing Section Zhejiang University of Science and Technology.
 
