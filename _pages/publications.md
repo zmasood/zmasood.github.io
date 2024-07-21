@@ -7,7 +7,7 @@ author_profile: true
 
 **2024**
 
-**Almakhles, Dhafer** and Mahmoud Abdelrahim. Event-triggered dynamic quantization for nonlinear systems with one-bit data transmission. _IEEE Transactions on Automatic Control_, 2024
+**Almakhles, Dhafer** and Mahmoud Abdelrahim. Event-triggered dynamic quantization for nonlinear systems with one-bit data transmission. _IEEE Transactions on Automatic Control_, 2024 [DOI](https://ieeexplore.ieee.org/abstract/document/10375106)
 
 **Almakhles, Dhafer** and Mahmoud Abdelrahim. A novel one-bit dynamic quantizer for event-triggered control systems. _Information Sciences_, page 120113, 2024
 
