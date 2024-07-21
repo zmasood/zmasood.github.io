@@ -1,6 +1,6 @@
 ---
 title: "Research Showcase"
-excerpt: "REL Projects <br/><img src='/images/conference.png'>"
+excerpt: "REL Projects <br/><img src='/images/showcase2.png'>"
 collection: portfolio
 ---
 
