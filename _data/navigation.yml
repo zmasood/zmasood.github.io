@@ -12,14 +12,12 @@ main:
   - title: "Media"
     url: /portfolio/
         
-  - title: "Services"
-    url: /year-archive/
-    
   - title: "CV"
     url: /cv/
-    
-  - title: "Contact"
-    url: /markdown/
 
   - title: "Research"
     url: /research/
+    
+  - title: "Contact"
+    url: /markdown/
+ 
