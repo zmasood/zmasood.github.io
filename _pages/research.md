@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **Editorial Board and Organized Special Issues/Session**
+
 • Publication Chair IEEE sponsored International Conference On Human-Centered Cognitive Systems (HCCS 2022) 17th December 2023, hosted by Nanjing Section Zhejiang University of Science and Technology.
 
 • Guest editorial: Highly efficient and reliable power converters for microgrid applications, Front. Energy Res., 12 January 2023, Sec. Smart Grids
