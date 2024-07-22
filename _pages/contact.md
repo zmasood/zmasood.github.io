@@ -1,9 +1,8 @@
 ---
-permalink: /contact/
+layout: archive
 title: "I'd love to hear from you!"
+permalink: /contact/
 author_profile: true
-redirect_from: 
-  - /contact/
 ---
 ## Contact Me
 
