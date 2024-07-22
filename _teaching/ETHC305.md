@@ -2,7 +2,7 @@
 title: "ETHC305 Ethical & Social Aspects of Engineering"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/ETHC305
 venue: 
 date: "2015-01-20"
 location:
